@@ -1,17 +1,15 @@
-## Running React on CloudStudio
+# Installation
+> `npm install --save @types/react`
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+# Summary
+This package contains type definitions for react (https://react.dev/).
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+# Details
+Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+### Additional Details
+ * Last updated: Tue, 07 Nov 2023 20:08:00 GMT
+ * Dependencies: [@types/prop-types](https://npmjs.com/package/@types/prop-types), [@types/scheduler](https://npmjs.com/package/@types/scheduler), [csstype](https://npmjs.com/package/csstype)
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, CloudStudio runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.vscode/preview.yml). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our TypeScript Template
+# Credits
+These definitions were written by [Asana](https://asana.com), [AssureSign](http://www.assuresign.com), [Microsoft](https://microsoft.com), [John Reilly](https://github.com/johnnyreilly), [Benoit Benezech](https://github.com/bbenezech), [Patricio Zavolinsky](https://github.com/pzavolinsky), [Eric Anderson](https://github.com/ericanderson), [Dovydas Navickas](https://github.com/DovydasNavickas), [Josh Rutherford](https://github.com/theruther4d), [Guilherme Hübner](https://github.com/guilhermehubner), [Ferdy Budhidharma](https://github.com/ferdaber), [Johann Rakotoharisoa](https://github.com/jrakotoharisoa), [Olivier Pascal](https://github.com/pascaloliv), [Martin Hochel](https://github.com/hotell), [Frank Li](https://github.com/franklixuefei), [Jessica Franco](https://github.com/Jessidhia), [Saransh Kataria](https://github.com/saranshkataria), [Kanitkorn Sujautra](https://github.com/lukyth), [Sebastian Silbermann](https://github.com/eps1lon), [Kyle Scully](https://github.com/zieka), [Cong Zhang](https://github.com/dancerphil), [Dimitri Mitropoulos](https://github.com/dimitropoulos), [JongChan Choi](https://github.com/disjukr), [Victor Magalhães](https://github.com/vhfmag), [Dale Tan](https://github.com/hellatan), [Priyanshu Rav](https://github.com/priyanshurav), and [Dmitry Semigradsky](https://github.com/Semigradsky).
